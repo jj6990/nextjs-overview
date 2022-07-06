@@ -1,0 +1,6 @@
+.masthead {
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: flex-start;
+}
